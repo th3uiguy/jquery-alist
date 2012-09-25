@@ -3,7 +3,6 @@ jQuery aList
 By: Spencer Neese [https://github.com/th3uiguy/](https://github.com/th3uiguy/)   
 Version: 0.5   
 Requires: jQuery UI 1.7+ and jQuery 1.3.2+   
-Demo: [http://jsfiddle.net/th3uiguy/TDaHj/](http://jsfiddle.net/th3uiguy/TDaHj/)   
 Git: [https://github.com/th3uiguy/jquery-alist.git](https://github.com/th3uiguy/jquery-alist.git)   
 
 
