@@ -1,0 +1,22 @@
+/**
+* jQuery aList
+*
+* @fileoverview Adds basic hover and key-press actions to a list.
+* @link https://github.com/th3uiguy/jquery-alist
+* @author Spencer Neese
+* @version 0.5
+* @requires jQuery UI 1.7+ and jQuery 1.3.2+
+* @license jQuery aList Plug-in
+*
+* Copyright 2012, Spencer Neese
+* Dual licensed under the MIT or GPL Version 2 licenses.
+* <https://raw.github.com/th3uiguy/jquery-alist/master/GPL-LICENSE.txt> 
+* <https://raw.github.com/th3uiguy/jquery-alist/master/MIT-LICENSE.txt>
+*/
+
+.al-item-clickable{
+	cursor: pointer;
+}
+.al-item-active{
+	background-color: #ffd;
+}
