@@ -42,5 +42,5 @@ Options
 <br /><br />
 Copyright (c) 2012, Spencer Neese [https://github.com/th3uiguy/](https://github.com/th3uiguy/)   
 Dual licensed under the 
-[MIT](https://raw.github.com/th3uiguy/jquery-alist/master/MIT-LICENSE.txt) or 
+[MIT](https://raw.github.com/th3uiguy/jquery-alist/master/MIT-LICENSE.txt) and 
 [GPL](https://raw.github.com/th3uiguy/jquery-alist/master/GPL-LICENSE.txt) Version 2 licenses. 
