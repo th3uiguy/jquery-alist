@@ -1,8 +1,9 @@
 jQuery aList
 ====================
 By: Spencer Neese [https://github.com/th3uiguy/](https://github.com/th3uiguy/)   
-Version: 0.5   
+Version: 0.6   
 Requires: jQuery UI 1.7+ and jQuery 1.3.2+   
+Demo: [http://jsfiddle.net/th3uiguy/ggm5u/](http://jsfiddle.net/th3uiguy/ggm5u/)   
 Git: [https://github.com/th3uiguy/jquery-alist.git](https://github.com/th3uiguy/jquery-alist.git)   
 
 
@@ -20,7 +21,6 @@ $('ul.aList').alist({
 	select: function(element, event){
 		alert("You selected " + $(element).html());
 	}
-}
 });
 ```
 
